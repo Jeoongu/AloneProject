@@ -4,7 +4,6 @@ import com.alonespring.aloneproject.domain.Posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.springframework.web.bind.annotation.BindParam;
 
 @Getter
 @NoArgsConstructor

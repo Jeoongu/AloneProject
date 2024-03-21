@@ -1,9 +1,10 @@
 package com.alonespring.aloneproject.domain;
 
-import jakarta.persistence.*;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
 
 @Getter
 @NoArgsConstructor
